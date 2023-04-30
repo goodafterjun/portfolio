@@ -1,0 +1,1355 @@
+/*////////////////////////////////////////////////////// Responsive CSS Structure //////////////////////////////////////////////////////*/
+
+@media (min-width: 1400px) {
+
+    .container {
+        max-width: 1230px;
+    }
+
+}
+
+@media (min-width: 2500px) and (max-width: 2599px) {
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 17%;
+    }
+
+}
+
+@media (min-width: 2400px) and (max-width: 2499px) {
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 17.5%;
+    }
+
+}
+
+@media (min-width: 2300px) and (max-width: 2399px) {
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 18%;
+    }
+
+}
+
+@media (min-width: 2200px) and (max-width: 2299px) {
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 19%;
+    }
+
+}
+
+@media (min-width: 1700px) and (max-width: 1799px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 20%;
+    }
+
+}
+
+@media (min-width: 1600px) and (max-width: 1699px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 19%;
+    }
+
+}
+
+@media (min-width: 1500px) and (max-width: 1599px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 18%;
+    }
+
+}
+
+@media (min-width: 1400px) and (max-width: 1499px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 17%;
+    }
+
+}
+
+@media (max-width: 1400px) {
+
+    .project-hero-section-main {
+        padding: 0 15px;
+    }
+
+}
+
+@media (min-width: 1300px) and (max-width: 1399px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 16%;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+
+    .yellow-block:before {
+        top: 13.5%;
+        right: 15%;
+    }
+
+}
+
+@media (max-width: 1200px) {
+
+    .yellow-block:before {
+        display: none;
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .slist-right {
+        max-width: 870px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+    /*------------------------footer-start------------------------------*/
+    .footer-right {
+        float: unset;
+    }
+    /*------------------------footer-end--------------------------------*/
+
+    /*------------------------hero-section-start------------------------*/
+    .typing-effect-hero {
+        margin-left: 50px;
+        margin-top: 55px;
+    }
+    .hero-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .hero-left img {
+        width: 400px;
+        height: 400px;
+    }
+    /*------------------------hero-section-end--------------------------*/
+
+    /*------------------------like-section-start------------------------*/
+    .like-design-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .ld-arrow {
+        margin-top: 34px;
+        margin-bottom: 34px;
+    }
+    .ld2-heading {
+        margin-bottom: 44px;
+    }
+    .yellow-block {
+        height: 89%;
+    }
+    /*------------------------like-section-end--------------------------*/
+
+    /*------------------------project-section-start---------------------*/
+    .projects-section-main {
+        margin-top: -65px;
+    }
+    .project-section {
+        padding-bottom: 50px;
+    }
+    /*------------------------project-section-end-----------------------*/
+
+    /*------------------------work-together-start-----------------------*/
+    .work-together-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    /*------------------------work-together-end-------------------------*/
+
+
+    /*----------------------------------------2nd-page-start----------------------------------------------------------------*/
+
+    /*------------------------work-hero-start--------------------------*/
+    .work-hero-section {
+        padding-top: 185px;
+        padding-bottom: 70px;
+    }
+    /*------------------------work-hero-end----------------------------*/
+
+    /*------------------------work-project-start-----------------------*/
+    .work-project-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .wps-projects {
+        margin-bottom: 50px;
+    }
+    .wps-date {
+        margin-bottom: 15px;
+    }
+    .wps-title {
+        margin-bottom: 15px;
+    }
+    .wps-detail {
+        margin-bottom: 15px;
+    }
+    .wps-text {
+        margin-bottom: 15px;
+    }
+    /*------------------------work-project-end-------------------------*/
+
+    /*----------------------------------------2nd-page-end------------------------------------------------------------------*/
+
+
+
+    /*----------------------------------------3rd-page-start----------------------------------------------------------------*/
+
+    /*------------------------about-hero-start-------------------------*/
+    .about-hero-section {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    .ahs-heading h3 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    /*------------------------about-hero-end---------------------------*/
+
+    /*------------------------about-philosophy-start-------------------*/
+    .ph-left img {
+        padding: 10px;
+    }
+    .philosophy-section {
+        padding-top: 70px;
+        padding-bottom: 35px;
+    }
+    /*------------------------about-philosophy-end---------------------*/
+
+    /*------------------------about-curious-start----------------------*/
+    .still-curious-section {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    /*------------------------about-curious-end------------------------*/
+
+    /*----------------------------------------3rd-page-end------------------------------------------------------------------*/
+
+
+    /*------------------------project-hero-start----------------------*/
+    .pf-detail {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .pfl-top p {
+        font-size: 22px;
+    }
+    .pfl-heading h4 {
+        font-size: 44px;
+    }
+    .pfr-detail h6 {
+        font-size: 22px;
+    }
+    .pfr-detail p {
+        font-size: 20px;
+    }
+    /*------------------------project-hero-end------------------------*/
+
+    /*------------------------project-spotlight-start-----------------*/
+    .spotlight-section {
+        padding-bottom: 120px;
+    }
+    .spotlight-detail {
+        margin-top: 50px;
+    }
+    .spotlight-section-main:after {
+        height: 90%;
+    }
+    /*------------------------project-spotlight-end-------------------*/
+
+    /*------------------------project-more-start---------------------*/
+    .more-projects-section-main {
+        margin-top: -70px;
+    }
+    .more-projects-section {
+        padding-bottom: 70px;
+    }
+    .mps-btn {
+        margin-top: 40px;
+    }
+    /*------------------------project-more-end-----------------------*/
+
+    /*------------------------contact-hero-start---------------------*/
+    .contact-hero-section {
+        padding-top: 140px;
+        padding-bottom: 80px;
+    }
+    .contact-heading h2 {
+        font-size: 68px;
+    }
+    /*------------------------contact-hero-end-----------------------*/
+
+
+    /*----------------------------------------4th-page-end------------------------------------------------------------------*/
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+    /*------------------------footer-start------------------------------*/
+    .footer-right {
+        float: unset;
+    }
+    /*------------------------footer-end--------------------------------*/
+
+    /*------------------------hero-section-start------------------------*/
+    .hero-right {
+        margin-left: 100px;
+    }
+    .hero-left {
+        text-align: center;
+    }
+    .typing-effect-hero:before {
+        left: 0;
+    }
+    .typing-effect-hero p {
+        margin-left: 70px;
+    }
+    .typing-effect-hero:after {
+        left: 433px;
+    }
+    .hero-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    /*------------------------hero-section-end--------------------------*/
+
+    /*------------------------like-section-start------------------------*/
+    .ld-list {
+        flex-wrap: wrap;
+        margin-bottom: 18px;
+    }
+    .ld-list-item {
+        flex: 0 0 35%;
+        margin-bottom: 20px;
+    }
+    .ld-list-item:last-child {
+        margin-right: 24px;
+    }
+    .like-design-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .ld-arrow {
+        margin-top: 34px;
+        margin-bottom: 34px;
+    }
+    .ld2-heading {
+        margin-bottom: 34px;
+    }
+    .yellow-block {
+        height: 61%;
+    }
+    /*------------------------like-section-end--------------------------*/
+
+    /*------------------------project-section-start---------------------*/
+    .projects-section-main {
+        margin-top: -65px;
+    }
+    .project-section {
+        padding-bottom: 50px;
+    }
+    /*------------------------project-section-end-----------------------*/
+
+    /*------------------------work-together-start-----------------------*/
+    .work-together-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .wt-heading {
+        margin-bottom: 24px;
+    }
+    /*------------------------work-together-end-------------------------*/
+
+
+    /*----------------------------------------2nd-page-start----------------------------------------------------------------*/
+
+    /*------------------------work-hero-start--------------------------*/
+    .work-hero-section {
+        padding-top: 150px;
+        padding-bottom: 70px;
+    }
+    /*------------------------work-hero-end----------------------------*/
+
+    /*------------------------work-project-start-----------------------*/
+    .work-project-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .wps-projects {
+        margin-bottom: 50px;
+    }
+    .wps-date {
+        margin-bottom: 10px;
+    }
+    .wps-title {
+        margin-bottom: 10px;
+    }
+    .wps-detail {
+        margin-bottom: 10px;
+    }
+    .wps-text {
+        margin-bottom: 10px;
+    }
+    /*------------------------work-project-end-------------------------*/
+
+    /*----------------------------------------2nd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------3rd-page-start----------------------------------------------------------------*/
+
+    /*------------------------about-hero-start-------------------------*/
+    .ahs-img-left {
+        margin-right: 0;
+    }
+    .ahs-img-right {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 14px;
+    }
+    .ahs-img-right-1 {
+        margin-bottom: 0;
+        margin-right: 14px;
+    }
+    .ahs-img-right-2 img {
+        padding: 16px 20px;
+    }
+    .about-hero-section {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    .ahs-heading h3 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    /*------------------------about-hero-end---------------------------*/
+
+    /*------------------------about-philosophy-start-------------------*/
+    .ph-left img {
+        padding: 10px;
+    }
+    .philosophy-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .philosophy-list .row [class*=col-] {
+        margin-bottom: 20px;
+    }
+    .philosophy-heading {
+        margin-bottom: 24px;
+    }
+    .philosophy-heading h3 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .ph-right h6 {
+        font-size: 22px;
+    }
+    /*------------------------about-philosophy-end---------------------*/
+
+    /*------------------------about-curious-start----------------------*/
+    .still-curious-section {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    /*------------------------about-curious-end------------------------*/
+
+    /*----------------------------------------3rd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------4th-page-start----------------------------------------------------------------*/
+
+    /*------------------------project-hero-start----------------------*/
+    .pf-detail {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .pfl-top p {
+        font-size: 22px;
+    }
+    .pfl-heading h4 {
+        font-size: 38px;
+    }
+    .pfr-detail h6 {
+        font-size: 22px;
+    }
+    .pfr-detail p {
+        font-size: 20px;
+    }
+    /*------------------------project-hero-end------------------------*/
+
+    /*------------------------project-solution-start------------------*/
+    ul.solution-list li {
+        margin-bottom: 30px;
+    }
+    ul.solution-list li:before {
+        width: 60px;
+        height: 60px;
+    }
+    ul.solution-list li:after {
+        width: 60px;
+        height: 60px;
+    }
+    .slist-right {
+        margin-left: 85px;
+    }
+    /*------------------------project-solution-end--------------------*/
+
+    /*------------------------project-spotlight-start-----------------*/
+    .spotlight-section {
+        padding-bottom: 120px;
+    }
+    .spotlight-detail {
+        margin-top: 40px;
+    }
+    .spotlight-section-main:after {
+        height: 90%;
+    }
+    /*------------------------project-spotlight-end-------------------*/
+
+    /*------------------------project-more-start---------------------*/
+    .more-projects-section-main {
+        margin-top: -70px;
+    }
+    .more-projects-section {
+        padding-bottom: 70px;
+    }
+    .mps-btn {
+        margin-top: 40px;
+    }
+    /*------------------------project-more-end-----------------------*/
+
+    /*------------------------contact-hero-start---------------------*/
+    .contact-hero-section {
+        padding-top: 120px;
+        padding-bottom: 70px;
+    }
+    .contact-heading h2 {
+        font-size: 64px;
+    }
+    .contact-text {
+        max-width: unset;
+    }
+    .contact-text p {
+        font-size: 22px;
+    }
+    /*------------------------contact-hero-end-----------------------*/
+
+    /*----------------------------------------4th-page-end------------------------------------------------------------------*/
+
+}
+
+@media (max-width: 767px) {
+
+    /* header-start */
+
+    .navbar-nav {
+        margin-top: 40px;
+        align-items: flex-start;
+    }
+
+    .nav-item {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .nav-item:last-child {
+        margin: 0;
+    }
+
+    .header .navbar-toggler {
+        position: relative;
+        z-index: 99999;
+        border: none;
+        padding: 0;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+	    -moz-box-shadow: none;
+    }
+    .header .navbar-toggler span {
+        position: relative;
+        display: block;
+        width: 24px;
+        height: 4px;
+        background-color: #1D1D1D;
+        margin-bottom: 5px;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
+    }
+
+    .navbar {
+        padding: 30px 0;
+    }
+
+    /* header-end */
+
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+
+    /*------------------------footer-start------------------------------*/
+    .footer-start {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .footer-left {
+        margin-bottom: 30px;
+    }
+    .footer-right {
+        float: unset;
+    }
+    /*------------------------footer-end--------------------------------*/
+
+    /*------------------------hero-section-start------------------------*/
+    .typing-effect-hero:before {
+        left: 0;
+    }
+    .typing-effect-hero p {
+        margin-left: 90px;
+        font-size: 62px;
+    }
+    .typing-effect-hero:after {
+        left: 433px;
+    }
+    .hero-text p {
+        font-size: 22px;
+    }
+    .hero-left {
+        text-align: center;
+    }
+    .hero-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    /*------------------------hero-section-end--------------------------*/
+
+    /*------------------------like-section-start------------------------*/
+    .ld-list {
+        flex-wrap: wrap;
+        margin-bottom: 18px;
+    }
+    .ld-list-item {
+        flex: 0 0 35%;
+        margin-bottom: 20px;
+    }
+    .ld-list-item:last-child {
+        margin-right: 24px;
+    }
+    .like-design-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .ld-heading h4 {
+        font-size: 22px;
+    }
+    .ld-arrow {
+        margin-top: 34px;
+        margin-bottom: 34px;
+    }
+    .ld2-heading {
+        margin-bottom: 34px;
+    }
+    .ld2-heading h3 {
+        font-size: 46px;
+        line-height: 51px;
+    }
+    .ld3-heading h6 {
+        font-size: 46px;
+        line-height: 51px;
+    }
+    .yellow-block {
+        height: 42%;
+    }
+    /*------------------------like-section-end--------------------------*/
+
+    /*------------------------project-section-start---------------------*/
+    .projects-section-main {
+        margin-top: -65px;
+    }
+    .project-heading h3 {
+        font-size: 38px;
+    }
+    .project-section {
+        padding-bottom: 50px;
+    }
+    /*------------------------project-section-end-----------------------*/
+
+    /*------------------------work-together-start-----------------------*/
+    .work-together-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .wt-heading {
+        margin-bottom: 24px;
+    }
+    .wt-heading p {
+        font-size: 22px;
+        line-height: 31px;
+    }
+    .wt-text h5 {
+        font-size: 44px;
+        line-height: 51px;
+    }
+    /*------------------------work-together-end-------------------------*/
+
+
+    /*----------------------------------------2nd-page-start----------------------------------------------------------------*/
+
+    /*------------------------work-hero-start--------------------------*/
+    .whs-heading h2 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    .whs-heading:before {
+        left: 188px;
+    }
+    .whs-text p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .work-hero-section {
+        padding-top: 150px;
+        padding-bottom: 70px;
+    }
+    /*------------------------work-hero-end----------------------------*/
+
+    /*------------------------work-project-start-----------------------*/
+    .wps-projects .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .wps-projects .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    .work-project-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .wps-projects {
+        margin-bottom: 50px;
+    }
+    .wps-right {
+        margin-bottom: 20px;
+    }
+    .wps-title {
+        margin-bottom: 20px;
+    }
+    .wps-text {
+        margin-bottom: 20px;
+    }
+    /*------------------------work-project-end-------------------------*/
+
+    /*----------------------------------------2nd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------3rd-page-start----------------------------------------------------------------*/
+
+    /*------------------------about-hero-start-------------------------*/
+    .about-hero-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ahs-heading h3 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    .ahs-right {
+        margin-bottom: 30px;
+    }
+    .ahs-img-right-1 {
+        margin-bottom: 5px;
+    }
+    .about-hero-section .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .about-hero-section .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    .ahs-right .row [class*=col-] {
+        order: unset !important;
+    }
+    /*------------------------about-hero-end---------------------------*/
+
+    /*------------------------about-philosophy-start-------------------*/
+    .philosophy-list .row [class*=col-] {
+        margin-bottom: 20px;
+    }
+    .philosophy-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .philosophy-heading {
+        margin-bottom: 24px;
+    }
+    .philosophy-heading h3 {
+        font-size: 44px;
+    }
+    .ph-left img {
+        padding: 10px;
+    }
+    .ph-right h6 {
+        font-size: 22px;
+        max-width: unset;
+    }
+    .ph-right p {
+        max-width: unset;
+    }
+    /*------------------------about-philosophy-end---------------------*/
+
+    /*------------------------about-curious-start----------------------*/
+    .still-curious-section {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    /*------------------------about-curious-end------------------------*/
+
+    /*----------------------------------------3rd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------4th-page-start----------------------------------------------------------------*/
+
+    /*------------------------project-hero-start----------------------*/
+    .pf-detail {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .pfl-top p {
+        font-size: 22px;
+    }
+    .pfl-heading h4 {
+        font-size: 40px;
+    }
+    .pfr-detail h6 {
+        font-size: 22px;
+    }
+    .pfr-detail p {
+        font-size: 20px;
+    }
+    .pf-text-right {
+        text-align: left;
+        margin-top: 20px;
+    }
+    /*------------------------project-hero-end------------------------*/
+
+    /*------------------------project-concept-start-------------------*/
+    .concept-heading {
+        margin-top: 16px;
+    }
+    .concept-text p {
+        margin-bottom: 20px;
+        max-width: unset;
+    }
+    .project-research .project-concept-section .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .project-research .project-concept-section .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    /*------------------------project-concept-end---------------------*/
+
+    /*------------------------project-solution-start------------------*/
+    .solution-heading {
+        margin-bottom: 20px;
+    }
+    ul.solution-list li {
+        margin-bottom: 30px;
+    }
+    ul.solution-list li:before {
+        font-size: 35px;
+        width: 50px;
+        height: 50px;
+    }
+    ul.solution-list li:after {
+        width: 50px;
+        height: 50px;
+    }
+    .slist-right {
+        margin-left: 75px;
+    }
+    .slist-right h6 {
+        font-size: 22px;
+    }
+    /*------------------------project-solution-end--------------------*/
+
+    /*------------------------project-spotlight-start-----------------*/
+    .spotlight-section {
+        padding-bottom: 120px;
+    }
+    .spotlight-detail {
+        margin-top: 30px;
+    }
+    .spotlight-left {
+        margin-bottom: 30px;
+    }
+    .spotlight-section-main:after {
+        height: 90%;
+    }
+    .spotlight-left p {
+        max-width: unset;
+    }
+    /*------------------------project-spotlight-end-------------------*/
+
+    /*------------------------project-more-start---------------------*/
+    .more-projects-section-main {
+        margin-top: -70px;
+    }
+    .more-projects-section {
+        padding-bottom: 70px;
+    }
+    .mps-btn {
+        margin-top: 40px;
+    }
+    /*------------------------project-more-end-----------------------*/
+
+    /*------------------------contact-hero-start---------------------*/
+    .contact-hero-section {
+        padding-top: 120px;
+        padding-bottom: 70px;
+    }
+    .contact-heading h2 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    .contact-text {
+        max-width: unset;
+    }
+    .contact-text p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    /*------------------------contact-hero-end-----------------------*/
+
+    /*----------------------------------------4th-page-end------------------------------------------------------------------*/
+
+}
+
+@media (max-width: 575px) {
+
+    /*------------------------footer-start------------------------------*/
+    .footer-start {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .footer-left {
+        margin-bottom: 30px;
+    }
+    .footer-right {
+        float: unset;
+    }
+    /*------------------------footer-end--------------------------------*/
+
+    /*------------------------hero-section-start------------------------*/
+    .typing-effect-hero:before {
+        top: -21px;
+        left: 0;
+        width: 100%;
+        max-width: 320px;
+        height: 121px;
+        background-size: 100% 90px;
+        background-repeat: no-repeat;
+    }
+    .typing-effect-hero p {
+        font-size: 42px;
+        line-height: 49px;
+        margin-left: 40px;
+        height: 49px;
+    }
+    .typing-effect-hero:after {
+        top: -35px;
+        left: 280px;
+    }
+    .hero-text p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .hero-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* .hero-left {
+        text-align: center;
+    } */
+    .hero-left img {
+        width: 280px;
+        height: 280px;
+    }
+    /*------------------------hero-section-end--------------------------*/
+
+    /*------------------------like-section-start------------------------*/
+    .like-design-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ld3-heading h6 {
+        font-size: 38px;
+        line-height: 51px;
+    }
+    .ld-arrow {
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }    
+    .ld-list {
+        flex-direction: column;
+    }
+    .ld-list-item {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .ld-list-item:last-child {
+        margin-bottom: 0;
+    }
+    .ld2-heading {
+        margin-bottom: 24px;
+    }
+    .ld2-heading h3 {
+        font-size: 38px;
+        line-height: 51px;
+    }
+    .ld-heading h4 {
+        font-size: 20px;
+    }
+    .yellow-block {
+        height: 21%;
+    }
+    /*------------------------like-section-end--------------------------*/
+
+    /*------------------------project-section-start---------------------*/
+    .projects-section-main {
+        margin-top: -55px;
+    }
+    .project-heading h3 {
+        font-size: 38px;
+    }
+    .project-section {
+        padding-bottom: 30px;
+    }
+    /*------------------------project-section-end-----------------------*/
+
+    /*------------------------work-together-start-----------------------*/
+    .work-together-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .wt-heading {
+        margin-bottom: 24px;
+    }
+    .wt-heading p {
+        font-size: 20px;
+        line-height: 31px;
+    }
+    .wt-text h5 {
+        font-size: 44px;
+        line-height: 51px;
+    }
+    /*------------------------work-together-end-------------------------*/
+
+
+    /*----------------------------------------2nd-page-start----------------------------------------------------------------*/
+
+    /*------------------------work-hero-start--------------------------*/
+    .whs-heading h2 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    .whs-heading:before {
+        left: 188px;
+    }
+    .whs-text p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .work-hero-section {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    /*------------------------work-hero-end----------------------------*/
+
+    /*------------------------work-project-start-----------------------*/
+    .wps-projects .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .wps-projects .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    .work-project-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .wps-projects {
+        margin-bottom: 40px;
+    }
+    .wps-right {
+        margin-bottom: 20px;
+    }
+    .wps-title {
+        margin-bottom: 20px;
+    }
+    .wps-title h3 {
+        font-size: 38px;
+        line-height: 41px;
+    }
+    .wps-text {
+        margin-bottom: 20px;
+    }
+    .wps-text p {
+        font-size: 18px;
+    }
+    /*------------------------work-project-end-------------------------*/
+
+    /*----------------------------------------2nd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------3rd-page-start----------------------------------------------------------------*/
+
+    /*------------------------about-hero-start-------------------------*/
+    .about-hero-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ahs-heading {
+        margin-bottom: 20px;
+    }
+    .ahs-heading h3 {
+        font-size: 52px;
+        line-height: 59px;
+    }
+    .ahs-text p {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+    .ahs-right {
+        margin-bottom: 30px;
+    }
+    .ahs-img-left {
+        margin-right: 0;
+        margin-bottom: 14px;
+    }
+    .about-hero-section .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .about-hero-section .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    .ahs-right .row [class*=col-] {
+        order: unset !important;
+    }
+    /*------------------------about-hero-end---------------------------*/
+
+    /*------------------------about-philosophy-start-------------------*/
+    .philosophy-section {
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+    .philosophy-heading {
+        margin-bottom: 26px;
+    }
+    .philosophy-heading h3 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .philosophy-list .row [class*=col-] {
+        margin-bottom: 20px;
+    }
+    .ph-left img {
+        padding: 10px;
+    }
+    .ph-right h6 {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: unset;
+    }
+    .ph-right p {
+        max-width: unset;
+    }
+    /*------------------------about-philosophy-end---------------------*/
+
+    /*------------------------about-curious-start----------------------*/
+    .still-curious-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .curious-heading h3 {
+        font-size: 38px;
+    }
+    .curious-text p {
+        font-size: 18px;
+    }
+    /*------------------------about-curious-end------------------------*/
+
+    /*----------------------------------------3rd-page-end------------------------------------------------------------------*/
+
+
+    /*----------------------------------------4th-page-start----------------------------------------------------------------*/
+
+    /*------------------------project-hero-start----------------------*/
+    .pf-detail {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .pfl-top p {
+        font-size: 22px;
+    }
+    .pfl-heading h4 {
+        font-size: 38px;
+    }
+    .pfl-text p {
+        font-size: 18px;
+    }
+    .pfr-detail h6 {
+        font-size: 20px;
+    }
+    .pfr-detail p {
+        font-size: 18px;
+    }
+    .pf-text-right {
+        text-align: left;
+        margin-top: 20px;
+    }
+    /*------------------------project-hero-end------------------------*/
+
+    /*------------------------project-concept-start-------------------*/
+    .concept-heading {
+        margin-top: 16px;
+    }
+    .concept-heading h3 {
+        font-size: 38px;
+    }
+    .concept-text p {
+        font-size: 18px;
+        margin-bottom: 20px;
+        max-width: unset;
+    }
+    .project-research .project-concept-section {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    .project-research .project-concept-section .row [class*=col-]:nth-child(1) {
+        order: 2;
+    }
+    .project-research .project-concept-section .row [class*=col-]:nth-child(2) {
+        order: 1;
+    }
+    /*------------------------project-concept-end---------------------*/
+
+    /*------------------------project-solution-start------------------*/
+    .solution-heading {
+        margin-bottom: 20px;
+    }
+    .solution-heading h3 {
+        font-size: 38px;
+    }
+    ul.solution-list li {
+        margin-bottom: 25px;
+    }
+    ul.solution-list li:before {
+        font-size: 28px;
+        width: 40px;
+        height: 40px;
+    }
+    ul.solution-list li:after {
+        width: 40px;
+        height: 40px;
+    }
+    .slist-right {
+        margin-left: 55px;
+    }
+    .slist-right h6 {
+        font-size: 20px;
+    }
+    .slist-right p {
+        font-size: 18px;
+    }
+    /*------------------------project-solution-end--------------------*/
+
+    /*------------------------project-spotlight-start-----------------*/
+    .spotlight-section {
+        padding-top: 18px;
+        padding-bottom: 100px;
+    }
+    .spotlight-detail {
+        margin-top: 30px;
+    }
+    .spotlight-left {
+        margin-bottom: 30px;
+    }
+    .spotlight-left p {
+        font-size: 18px;
+    }
+    .spotlight-section-main:after {
+        height: 90%;
+    }
+    .spotlight-left p {
+        max-width: unset;
+    }
+    /*------------------------project-spotlight-end-------------------*/
+
+    /*------------------------project-more-start---------------------*/
+    .more-projects-section-main {
+        margin-top: -60px;
+    }
+    .more-projects-section {
+        padding-bottom: 50px;
+    }
+    .mps-btn {
+        margin-top: 30px;
+    }
+    /*------------------------project-more-end-----------------------*/
+
+    /*------------------------contact-hero-start---------------------*/
+    .contact-hero-section {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .contact-heading {
+        margin-bottom: 20px;
+    }
+    .contact-heading h2 {
+        font-size: 58px;
+        line-height: 69px;
+    }
+    .contact-text {
+        margin-bottom: 20px;
+        max-width: unset;
+    }
+    .contact-text p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    /*------------------------contact-hero-end-----------------------*/
+
+    /*----------------------------------------4th-page-end------------------------------------------------------------------*/
+
+}
+
+@media (max-width: 349px) {
+
+    .typing-effect-hero:after {
+        top: -30px;
+        left: 253px;
+    }
+
+}

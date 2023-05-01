@@ -723,6 +723,11 @@ h1, h2, h3, h4, h5, h6 {
 	justify-content: center;
 }
 
+.wps-right {
+	transition: all 0.2s ease-in;
+	border-radius: 32px;
+}
+
 .wps-right img {
 	width: 100%;
 	border: 2px solid #1D1D1D;
@@ -731,6 +736,11 @@ h1, h2, h3, h4, h5, h6 {
 	-moz-border-radius: 32px;
 	-ms-border-radius: 32px;
 	-o-border-radius: 32px;
+}
+
+.wps-right:hover {
+	box-shadow: 14px 14px #F8AA27;
+	border-radius: 32px;
 }
 
 .wps-date {

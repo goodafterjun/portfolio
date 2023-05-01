@@ -548,6 +548,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .project-img {
 	margin-bottom: 24px;
+	transition: all 0.2s ease-in;
+	border-radius: 32px;
 }
 
 .project-img img {
@@ -561,7 +563,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-img:hover {
-	box-shadow: 8px 8px #F8AA27;
+	box-shadow: 10px 10px #F8AA27;
+	border-radius: 32px;
 }
 
 .project-heading {

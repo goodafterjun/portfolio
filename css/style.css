@@ -560,6 +560,10 @@ h1, h2, h3, h4, h5, h6 {
 	-o-border-radius: 32px;
 }
 
+.project-img:hover {
+	box-shadow: 0 0 11px #F8AA27;
+}
+
 .project-heading {
 	margin-bottom: 10px;
 }

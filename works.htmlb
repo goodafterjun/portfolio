@@ -102,14 +102,14 @@
                                     <p>XX/XXXX</p>
                                 </div>
                                 <div class="wps-title">
-                                    <h3>Project Title</h3>
+                                    <h3>Keebs Club</h3>
                                 </div>
                                 <div class="wps-detail">
                                     <p>UI/UX</p>
                                     <p>Web Design</p>
                                 </div>
                                 <div class="wps-text">
-                                    <p>The nation’s most distinguished honor society meets the modern digital experience in this website redesign.</p>
+                                    <p>A place for mechanical enthusiasts to connect.</p>
                                 </div>
                                 <div class="project-btn">
                                     <p><a href="project.html">View Project<i class="fa-solid fa-arrow-right"></i></a></p>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="wps-right">
-                                <img src="images/work-project-img.png" alt="project" class="img-fluid">
+                                <img src="KeebsClub.png" alt="KeebsClub" class="img-fluid">
                             </div>
                         </div>
                     </div>
